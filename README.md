@@ -1,4 +1,4 @@
-#DOCUMENTATION
+**DOCUMENTATION FOR A.Eye.**
 
 Imagine every piece of information is right in front of you. No need to look elsewhere as you already are seeing all the data you need to know without any other device. Smart contact lenses provide a medium to deliver information in the most direct way possible, seamlessly into your vision. A.Eye is an invention to have all the information you need brought straight into your sight to help users be as informed as possible. With integration to a Neuralink chip, control is easy and data can be quickly fetched and displayed right into the HUD. Our primary sense is sight, and by augmenting it with our modern technologies we become the best version of ourselves possible.
 
